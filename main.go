@@ -116,6 +116,10 @@ func matchEvent(inputEvent string) bool {
 		"S-1210",
 		"S-1030",
 		"S-1050",
+		"S-1010",
+		"S-5001",
+		"S-5002",
+		"S-5003",
 	}
 
 	for _, event := range events {
